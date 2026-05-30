@@ -1,1 +1,1 @@
-# Beacom
+# Beacon
